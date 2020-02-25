@@ -226,6 +226,13 @@ node_modules/@framer/benjamin.icon-generator/code/Icon.tsx
 node_modules/@framer/benjamin.icon-generator/build/vendors.js
 node_modules/@framer/benjamin.icon-generator/build/index.js
 node_modules/@framer/benjamin.icon-generator/README.md
+node_modules/@framer/bbertola.animated-numbers/tsconfig.json
+node_modules/@framer/bbertola.animated-numbers/package.json
+node_modules/@framer/bbertola.animated-numbers/dist/index.js
+node_modules/@framer/bbertola.animated-numbers/design/document.json
+node_modules/@framer/bbertola.animated-numbers/code/canvas.tsx
+node_modules/@framer/bbertola.animated-numbers/code/Animated_Numbers.tsx
+node_modules/@framer/bbertola.animated-numbers/README.md
 design/images/xjvOvcopFwz0JKfBYLF9VhZ7EI.png
 design/images/wlOk7Q8J0x6U1dN1P2xQcZepONc.png
 design/images/wImqrj8SdAhz2VIdRihsHCFS8s.png
