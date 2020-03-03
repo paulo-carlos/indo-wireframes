@@ -535,7 +535,6 @@ design/images/tuzzFWgLKBxSNMBMpKTZ0Hco.png
 design/images/tCzELdfCjc5J3IxMZ0JQdlUI5UU.png
 design/images/sNv8OAAZaF8TG2OmtmnDgE8yLws.png
 design/images/s7bH8zbMlE0MVoTY5JDtDaQK4Q.png
-design/images/lyw2DZhZWda8pX2CxPITgVgHGk.png
 design/images/lQ6rh4iiDYppNBDvfScWDeuz8I.png
 design/images/iZLhPTEcnPp8J6o2CqDItbFbI.png
 design/images/dA8PIkzlNMsySz50lGMg9L9iqQU.png
@@ -548,7 +547,6 @@ design/images/GEpHx9BVWiZLgufoV0IU1Rwsw4g.png
 design/images/DblZMJ7JQeu853rB2zLeEyazS74.png
 design/images/CKr9EauceFEXTOKcBRSre45P9w.png
 design/images/6ApBgJDE6UjL8Vgzo7hTmZ50.png
-design/images/2NhlgeB59rGMTh3w0H80kW4pDY.png
 design/images/1HWTHexd5tQ7cYD5ZJEHmFe7h0.png
 build/vendors.js
 build/framer.js
